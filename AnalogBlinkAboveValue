@@ -32,7 +32,7 @@ void loop()
     digitalWrite(ledPin, LOW);        // turn the LED off by making the voltage LOW
     delay(500);                       // wait for a second 
     
-  } else
+  } else                               // kieran changes
   {
     // turn LED off:
     digitalWrite(ledPin, LOW);
